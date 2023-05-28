@@ -1,0 +1,11 @@
+**.csv
+**.tsv
+**.pkl
+**.png
+**.xlsx
+**.R
+**.Rmd
+__pycache__/**
+**.pyc
+.DS_Store
+**.cys
